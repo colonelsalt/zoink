@@ -1,0 +1,28 @@
+Libraries:
+- Tonclib
+- Maxmod
+
+All music by Beatscribe (https://beatscribe.itch.io/).
+Some sound effects also by Beatscribe:
+	- Gameboy FX Hammer Sound Effects Pack (https://beatscribe.itch.io/gameboy-fx-hammer-sound-effects-pack)
+	- Free Gameboy Jingles and Fanfares (https://beatscribe.itch.io/gameboy-jingles-and-fanfares-ugemodmp3
+
+Other sound effects:
+JD Sherbert (https://jdsherbert.itch.io/) - Pixel UI Sound Effects Pack (https://jdsherbert.itch.io/pixel-ui-sfx-pack0
+
+Graphics:
+LimeZu (https://limezu.itch.io/):
+	- Modern exteriors (https://limezu.itch.io/modernexteriors)
+	- Modern interiors (https://limezu.itch.io/moderninteriors)
+		- Various NPC sprites generated with LimeZu's Character Generator included in the above pack
+	
+Pita (https://pita.itch.io/) - WONDERDOT RPG Monster Pack (https://pita.itch.io/rpg-monster-pack)
+	
+Nuaah (https://nuaah.itch.io/) - Present Box Animation (https://nuaah.itch.io/present-box-animation)
+
+CreativeKind (https://creativekind.itch.io/) - Demon Mage (https://creativekind.itch.io/demon-mage)
+
+Fonts:
+- Upheaval by Brian Kent (https://www.dafont.com/upheaval.font)
+- IBM Logo by JD (https://www.dafont.com/ibm-logo.font)
+- Alagard by Hewett Tsoi (https://www.dafont.com/alagard.font)
